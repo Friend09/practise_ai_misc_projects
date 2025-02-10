@@ -1,0 +1,17 @@
+ipykernel
+pandas
+matplotlib
+langchain
+langchain-core
+langchain-community
+crewai
+crewai_tools
+langchain_openai
+llmonitor
+nbformat
+llama-index
+llama-index-core
+llama-index-readers-file
+llama-index-tools-wolfram-alpha
+llama-index-embeddings-huggingface
+llama-index-llms-groq
