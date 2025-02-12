@@ -1,12 +1,13 @@
 ipykernel
 pandas
 matplotlib
+crewai
+crewai_tools
 langchain
 langchain-core
 langchain-community
-crewai
-crewai_tools
 langchain_openai
+langgraph
 llmonitor
 nbformat
 llama-index
