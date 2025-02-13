@@ -6,7 +6,10 @@ crewai_tools
 langchain
 langchain-core
 langchain-community
+langchain_experimental
 langchain_openai
+langchain_groq
+langchain_huggingface
 langgraph
 llmonitor
 nbformat
@@ -16,3 +19,9 @@ llama-index-readers-file
 llama-index-tools-wolfram-alpha
 llama-index-embeddings-huggingface
 llama-index-llms-groq
+pymupdf
+sentence_transformers
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/accelerate.git
+chromadb
+torch
