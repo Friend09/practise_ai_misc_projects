@@ -38,3 +38,7 @@ sentence_transformers
 tavily-python
 torch
 transformers
+
+smolagents
+scikit-learn
+litellm
