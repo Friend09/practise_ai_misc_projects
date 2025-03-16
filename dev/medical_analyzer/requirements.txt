@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-ollama
+langchain-groq
+fastapi
+python-multipart
+uvicorn
+jinja2
+graphviz
+mistralai
+dotenv
+weasyprint
+markdown
